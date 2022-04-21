@@ -1,6 +1,6 @@
 [submodule "httpagentparser"]
 	path = httpagentparser
-	url = git://github.com/shon/httpagentparser.git
+	url = https://github.com/shon/httpagentparser.git
 [submodule "http-parser"]
 	path = http-parser
 	url = https://github.com/joyent/http-parser
